@@ -1,0 +1,18 @@
+{
+  "name": "Helper Marketplace",
+  "short_name": "Helper",
+  "description": "Helper — errands and simple tasks marketplace for Android-first users.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
+
